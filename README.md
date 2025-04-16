@@ -7,9 +7,8 @@
 - **Vibrant Boxed UI**: 
 - Full-width header with white text on a blue background.
 - Section titles in cyan (current directory) and magenta (selected file/folder content). 
-- Metadata in green and help text in yellow for a lively look. - 
-
-**Clear Section Separation**: Vertical separator and boxed elements for distinct panels.
+- Metadata in green and help text in yellow for a lively look. 
+- **Clear Section Separation**: Vertical separator and boxed elements for distinct panels.
 - **Navigation**: 
 - Switch panels with `Tab`.
 - Scroll panels independently with arrow keys (`↑`/`↓`).

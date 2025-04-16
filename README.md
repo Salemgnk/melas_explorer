@@ -82,11 +82,19 @@ We welcome contributions to enhance **Nexlify Explorer**! If you’re interested
 - **File Operations**: Implement copy, move, and delete functionality with confirmation prompts. 
 - **Customizable Themes**: Allow users to define custom color schemes for the UI (e.g., via a configuration file). 
 - **Bookmarks**: Enable saving and quick access to frequently visited directories. 
-- **Advanced Search**: Support regex or fuzzy search for more powerful file filtering. To contribute: 
+- **Advanced Search**: Support regex or fuzzy search for more powerful file filtering. 
+
+To contribute: 
 1. Fork the repository. 
 2. Create a feature branch (`git checkout -b feature/new-feature`). 
 3. Commit your changes (`git commit -m 'Add new feature'`). 
 4. Push to the branch (`git push origin feature/new-feature`). 
-5. Open a pull request with a clear description of your changes. Please ensure your code follows the project’s modular structure and includes appropriate comments. 
+5. Open a pull request with a clear description of your changes. Please ensure your code follows the project’s modular structure and includes appropriate comments.
+
+## Contact
+Reach me at :
+- gnandisalem@gmail.com
+- [Linkedin](https://www.linkedin.com/in/salem-gnandi/)
+
 ## License 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
